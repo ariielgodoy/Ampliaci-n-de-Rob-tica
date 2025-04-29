@@ -1,0 +1,17 @@
+Kw = 1;
+R = 0.1;
+Tau = 0.12;
+K = 0.4;
+Ts = 0.025;
+t_max = 5;
+N = round(t_max / Ts);
+
+%Condiciones iniciales
+wi = 0;
+wd = 0;
+x = 0;
+y = 0;
+theta = 0;
+
+s = tf('s');
+G_motor = 1/(0.)
