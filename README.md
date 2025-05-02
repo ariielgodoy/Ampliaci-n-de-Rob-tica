@@ -7,6 +7,7 @@ Este repositorio contiene las prácticas realizadas por **Julia Molina Pozo** y 
 
 A lo largo del curso, se implementaron diversos algoritmos clásicos de navegación y planificación de trayectorias en robótica móvil, incluyendo:
 
+- **Modelo de locomoción**
 - **Pure Pursuit**  
 - **A\***  
 - **Dijkstra**  
