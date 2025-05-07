@@ -18,7 +18,9 @@ Además, como proyecto final de esta primera mitad de la asignatura, se desarrol
 
 ## Documentación
 
-Las descripciones detalladas de cada práctica, así como del proyecto final, se encuentran disponibles en la sección de **Wikis** de este repositorio.
+Las descripciones detalladas de cada práctica, así como del proyecto final, se encuentrarán en un futuro disponibles en la sección de **Wikis** de este repositorio, sin embargo, se encuentran acutalmente en la entrega del campus virtual en formato word. 
+
+**PROXIMAMENTE EN MARKDOWN**
 
 ---
 
