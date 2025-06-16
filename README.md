@@ -16,6 +16,14 @@ A lo largo del curso, se implementaron diversos algoritmos clásicos de navegaci
 
 Además, como proyecto final de esta primera mitad de la asignatura, se desarrolló una integración o "mini mix" de los diferentes métodos anteriores, demostrando su aplicación conjunta en un entorno simulado.
 
+También se han implementado simulaciones de la dinámica de un manipulador, en matlab, ros y simulink, donde se incluye:
+
+  - **Planificación de trayectorias cartesianas**
+  - **Simulación Dinámica del Manipulador**
+  - **Control de Dinámicas Inversas**
+  - **Control de Impedancia**
+  - **Control de Fuerzas** 
+
 ## Documentación
 
 Las descripciones detalladas de cada práctica, así como del proyecto final, se encuentrarán en un futuro disponibles en la sección de **Wikis** de este repositorio, sin embargo, se encuentran actUalmente en la entrega del campus virtual en formato word. 
